@@ -135,8 +135,8 @@
 
   <div class="card">
     <h1>Heyy Mickey 💕</h1>
-    <p>Every moment I spend with you feels special, and I can’t imagine a day without you, especially Valentine’s Day.</p>
-    <p>With that being said</p>
+    <h3>I miss you like a lot🥹</h3>
+    <p>I just want you to know that, every moment I spend with you feels special, and I can’t imagine a day without you, especially Valentine’s Day.</p>
     <h2>Will you be my Valentine? 🥹💖</h2>
 
     <div class="buttons">
@@ -146,7 +146,7 @@
 
     <div class="message" id="message">
       You just made my heart so happy ❤️ now I can die happy😭
-      <br />I can’t wait to spend Valentine’s with you 💐 I love you🖤
+      <br />I can’t wait to spend Valentine’s with you 💐 I love you😘🖤
     </div>
   </div>
 
