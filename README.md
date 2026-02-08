@@ -135,7 +135,8 @@
 
   <div class="card">
     <h1>Heyy Mickey 💕</h1>
-    <p>Every moment with you feels special, and I can’t imagine a day without you, especially Valentine’s Day.</p>
+    <p>Every moment I spend with you feels special, and I can’t imagine a day without you, especially Valentine’s Day.</p>
+    <p>With that being said</p>
     <h2>Will you be my Valentine? 🥹💖</h2>
 
     <div class="buttons">
