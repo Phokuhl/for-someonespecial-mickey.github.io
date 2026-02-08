@@ -34,9 +34,7 @@
   color: #fff;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0,0,0,0.3);
-  <div id="noMessage" class="no-message">
-  Hey 😅 unfortunately that’s not an option
-</div>
+  
 }
 
    .card::before {
@@ -56,6 +54,7 @@
     .card * {
   position: relative;
   z-index: 1;
+  
 }
     h1 {
       font-size: 2.4rem;
@@ -138,6 +137,8 @@
   color: #ffd1dc;
   animation: fadeIn 0.6s ease;
 }
+.card {
+  position: relative;
   </style>
 </head>
 <body>
@@ -156,7 +157,9 @@
   onmouseenter="moveNo(this)">
   No 🙈</button>
     </div>
-
+  <div id="noMessage" class="no-message">
+  Hey 😅 unfortunately that’s not an option
+</div>
     <div class="message" id="message">
       You just made my heart skip a beat ❤️ now I can die happy😭
       <br />I can’t wait to spend Valentine’s with you 💐 I love you😘🖤
